@@ -30,7 +30,6 @@ int main()
 	scanf("%d", &pos);
 
 	/*  Example Senario: if number of people is set as 5 skips is set as 2 and position as 3
-
         Initial Arrangement: 1, 2, 3, 4, 5(circular)
         3 will kill 4, pass the dagger to 2(skipping 5 and 1)
         2 will kill 3, pass the dagger to 2 again(skipping 5 and 1)
